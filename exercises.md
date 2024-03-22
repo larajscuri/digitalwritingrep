@@ -1,2 +1,2 @@
-#Week three Digital Writing#
+# Week Three Digital Writing #
 ## excercises ##
