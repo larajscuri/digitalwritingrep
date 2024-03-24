@@ -1,7 +1,7 @@
 # Week Three Digital Writing #
 ## exercises ##
 1. What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
-   * *Taroko Gorge*: randomly generated, making patterned generated sentences that appear differently each time you interact however, they all describe this specific place.
+   * _Taroko Gorge_: randomly generated, making patterned generated sentences that appear differently each time you interact however, they all describe this specific place.
    * *The Gathering Cloud*: a mixture of pictures, motion, words and poetry. You click through the pages, get drop down boxes that explains things further. 
    * *First Draft of the Revolution*:
    * *Shade*: it is IF (interactive fiction) so you are moving through the game as the main character and type responses to figure out and unfold the story in front of you.
