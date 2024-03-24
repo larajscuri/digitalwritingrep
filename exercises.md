@@ -22,3 +22,11 @@
    * *The gathering cloud*: pictures, motion, hyperlink.
    * *First draft of the revolution*: hyperlink, choices, interactive
    * *Shade*: interactive fiction, second person
+## Code ##
+### Remix "To Make a Dadaist Poem ###
+### Remix N+7 ###
+## Taroko Gorge ##
+### Remix it ###
+* What aspects of the remix are the same?
+* What aspects of the remix are different?
+* Is the remix successful (why or why not)?
