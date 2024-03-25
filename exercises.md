@@ -23,12 +23,22 @@
    * *First draft of the revolution*: hyperlink, choices, interactive
    * *Shade*: interactive fiction, second person
 ## Code ##
-### Remix "To Make a Dadaist Poem ###
+### Remix "To Make a Dadaist Poem" ###
+* https://glitch.com/edit/#!/pepper-ringed-layer
 ### Remix N+7 ###
+* https://mature-determined-draw.glitch.me
 ## Taroko Gorge ##
 ### Remix it ###
 * What aspects of the remix are the same?
+ * Remix: https://nickm.com/taroko_gorge/gorge/
+ * Similarities: They both use visceral, strong words that evoke a sense of the reader walking alongside what is occurring in the poem.
+ * Moving at the same pace also creates a similar feeling as we navigate the poem.
 * What aspects of the remix are different?
+  * Differences: the colours are different, this one is more muted and soft unlike the strong, very nostalgic almost of Taroko Gorge.
+  * The words evoke a different feeling, whilst Taroko had more natural words connecting to nature to describe the Gorge, this one is more body-related.
+  * There is a larger repository of words as well. There is more to look at and digest.
+  * Less repetition as a result of the larger repository of words.
 * Is the remix successful (why or why not)?
+  * I think it is successful. It evokes an almost opposite feeling. It is more guttural and using words that are associated with the body whereas the Taroko Gorge reflects the sharp and harsh landscape of the Gorge. But in the same vein, you can still tell it is a glitch/remix of Taroko Gorge because of the strong language and how we move throughout the poem.
 ### Remix "We Walk to You ###
-*https://shimmering-instinctive-canary.glitch.me
+* https://shimmering-instinctive-canary.glitch.me
