@@ -30,9 +30,9 @@
 ## Taroko Gorge ##
 ### Remix it ###
 * What aspects of the remix are the same?
- * Remix: https://nickm.com/taroko_gorge/gorge/
- * Similarities: They both use visceral, strong words that evoke a sense of the reader walking alongside what is occurring in the poem.
- * Moving at the same pace also creates a similar feeling as we navigate the poem.
+  * Remix: https://nickm.com/taroko_gorge/gorge/
+  * Similarities: They both use visceral, strong words that evoke a sense of the reader walking alongside what is occurring in the poem.
+  * Moving at the same pace also creates a similar feeling as we navigate the poem.
 * What aspects of the remix are different?
   * Differences: the colours are different, this one is more muted and soft unlike the strong, very nostalgic almost of Taroko Gorge.
   * The words evoke a different feeling, whilst Taroko had more natural words connecting to nature to describe the Gorge, this one is more body-related.
