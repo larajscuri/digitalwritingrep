@@ -1,4 +1,17 @@
+# Week One Digital Writing
+
+## exercises ##
+1. What do you think digital writing is?
+2. What do you expect from the digital writing lab?
+
+### Your Writing
+4. What types of writing do you do (e.g. fiction, nonfiction, poetry)?
+5. What tools (or techniques) do you use to write?
+6. Why do you use these tools (or techniques)?
+7. How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
+
 # Week Three Digital Writing #
+
 ## exercises ##
 1. What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
    * _Taroko Gorge_: randomly generated, making patterned generated sentences that appear differently each time you interact however, they all describe this specific place.
@@ -40,5 +53,26 @@
   * Less repetition as a result of the larger repository of words.
 * Is the remix successful (why or why not)?
   * I think it is successful. It evokes an almost opposite feeling. It is more guttural and using words that are associated with the body whereas the Taroko Gorge reflects the sharp and harsh landscape of the Gorge. But in the same vein, you can still tell it is a glitch/remix of Taroko Gorge because of the strong language and how we move throughout the poem.
+# WEEK FOUR #
 ### Remix "We Walk to You ###
 * https://shimmering-instinctive-canary.glitch.me
+# WEEK FIVE
+## Exercises ##
+### Hypertext ###
+1. How is it different from fiction?
+2. How is it different from games?
+3. How do you plan fiction?
+4. How could you plan hypertext fiction?
+# WEEK SIX #
+## Excercises 
+### Branching Story 
+
+# WEEK SEVEN
+## Excercises
+### Bitsy 
+
+# WEEK EIGHT 
+## Research for Proposal 
+
+# WEEK NINE
+## More research experimenting with bitsy for House On the Hill
