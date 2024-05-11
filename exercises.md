@@ -60,19 +60,32 @@
 ## Exercises ##
 ### Hypertext ###
 1. How is it different from fiction?
-2. How is it different from games?
-3. How do you plan fiction?
-4. How could you plan hypertext fiction?
+   * Giving the reader choice through the web. Playing with the order of things, linearity is more murky. 
+3. How is it different from games?
+   * Relying on writing more than visuals.
+   * Set of rules, having the ability to explain these rules.
+   * objective, hypertext fiction is sometimes subjective
+   * Gameplay is a form of making meaning
+   * Digital media: if game play is not producing meaning, is it not useful
+   * Is it useful to think of a work a game?
+5. How do you plan fiction?
+   * timelines, storyboards, written on Google Docs usually with chapters
+7. How could you plan hypertext fiction?
+   * timelines, mindmaps, branching possibilities. 
 # WEEK SIX #
-## Excercises 
+## Exercises 
 ### Branching Story 
 
 # WEEK SEVEN
-## Excercises
+## Exercises
 ### Bitsy 
 
 # WEEK EIGHT 
 ## Research for Proposal 
+* Opal - Short film: https://www.youtube.com/watch?v=-1pVLJl_snc
+* Hotel Infinity - Bitsy story: https://rascalin.itch.io/hotel-infinity
+* Chrontopophobia - bitsy story: https://hideous-cave-goblin.itch.io/chronotopophobia
+* Minimalist - bitsy story: https://ruin.itch.io/minimalist
 
 # WEEK NINE
 ## More research experimenting with bitsy for House On the Hill
