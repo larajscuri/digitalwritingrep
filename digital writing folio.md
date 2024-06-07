@@ -1,6 +1,6 @@
 # Coversheet for Developed Creative Work 
 
-# [Artists CV] (./artist CV.md)
+# [Artists CV] (./artist-CV.md)
 
 # [Objectives] (./digital writing folio: objectives.md)
 
