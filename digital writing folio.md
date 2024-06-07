@@ -1,6 +1,8 @@
 # Coversheet for Developed Creative Work 
 
-# [Artists CV] (./artist-CV.md)
+# <a href="https://github.com/larajscuri/digitalwritingrep/blob/main/artist-CV.md">Artist CV</a>
+
+[Artists CV] (./artist-CV.md)
 
 # [Objectives] (./digital writing folio: objectives.md)
 
