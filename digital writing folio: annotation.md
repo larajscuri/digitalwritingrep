@@ -44,11 +44,9 @@
 - First draft of the revolution: hyperlink, choices, interactive
 - Shade: interactive fiction, second person
 # Engagement with the Readings
-## Enlightening Interactive Fiction: Andrew Plotkin’s Shade – Jeremy Douglass <a href="https://www.example.com">anchor</a>
+## <a href="https://electronicbookreview.com/essay/enlightening-interactive-fiction-andrew-plotkins-shade/">Enlightening Interactive Fiction: Andrew Plotkin’s Shade – Jeremy Douglass</a>
 - This enlightened me on the way in which you can use interaction as a vessel for storytelling. Having the error messages communicate and allude to the user being dead and this being a sort of purgatory revealed this to me, it was a clever way to use the forms conventions in the narrative.
 - It makes it uniquely digital, as you could not do this if it was print. 
-## Beyond Taxonomy: Digital Poetics and the Problem of Reading – Talan Memmott <a href="https://www.example.com">anchor</a>
+## <a href="https://direct.mit.edu/books/edited-volume/2676/New-Media-PoeticsContexts-Technotexts-and-Theories">Beyond Taxonomy: Digital Poetics and the Problem of Reading – Talan Memmott</a>
 - This reading succinctly describes the different elements involved with digital writing that work to elevate the piece.
 - The idea that they are all purposeful decisions, made to curate and add to the narrative. 
-## Poetic Playlands: Poetry, Interface, and Video Game Engines – Jason Nelson <a href="https://www.example.com">anchor</a>
-
