@@ -1,16 +1,15 @@
 # Annotations
 # Reflection on Hypertext
 ## How is it different from fiction?
-•	Giving the reader choice through the web. 
-•	Playing with the order of things. 
-•	Linearity is murkier.
+- Giving the reader choice through the web.
+- Playing with the order of things.
+- Linearity is murkier.
 ## How is it different from games?
-•	Relying on writing more than visuals.
-•	Set of rules, having the ability to explain these rules.
-•	Hypertext fiction is sometimes subjective
-•	Gameplay is a form of making meaning
-•	Digital media: if gameplay is not producing meaning, is it useful?
-•	Is it useful to think of a work as a game?
+- Relying on writing more than visuals.
+- Set of rules, having the ability to explain these rules.
+- Hypertext fiction is sometimes subjective
+- Gameplay is a form of making meaning
+- Digital media: if gameplay is not producing meaning, is it useful?
 # Engagement with Works of Electronic Literature
 ## Shade – IF game 
 - This game was quite frustrating to play—I did have to play it a couple of times before I understood the mechanics and got the full story. It is interesting to read a story in this way where you feel so involved with it. The second person perspective really places you in the position of the character and you begin to really feel as if you are this character, trying to discover what happened to you.
