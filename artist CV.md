@@ -3,6 +3,6 @@ Lara Scuri is a fiction writer and poet based in Melbourne, Victoria. She is cur
 
 # Publications
 <a href="https://issuu.com/rmitcatalyst/docs/web_catalyst_2022_vol78_issue_5_curtain_call">Catalyst 78.5</a>
-<a href="https://issuu.com/rmitcatalyst/docs/catalyst_2024_vol80_issue_1_off-to-a-street-st-art>Catalyst 80.1</a>
-<a href="https://issuu.com/rmitcatalyst/docs/vol80_issue2_masterfile>Catalyst 80.2</a>
+<a href="https://issuu.com/rmitcatalyst/docs/catalyst_2024_vol80_issue_1_off-to-a-street-st-art">Catalyst 80.1</a>
+<a href="https://issuu.com/rmitcatalyst/docs/vol80_issue2_masterfile">Catalyst 80.2</a>
 
