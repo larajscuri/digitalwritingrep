@@ -8,7 +8,7 @@
 ![hallway](https://github.com/larajscuri/digitalwritingrep/assets/162088161/98455276-e5d0-4e52-a070-15689067c569)
 ![campfire](https://github.com/larajscuri/digitalwritingrep/assets/162088161/175dfa0d-f1dc-4bcb-ac1c-92f6f6176362)
 ## Final rooms
-       ![Screenshot 2024-05-31 124659](https://github.com/larajscuri/digitalwritingrep/assets/162088161/8c6e0ff1-e6e0-4ec5-b90e-7a7496786018)
+![Screenshot 2024-05-31 124659](https://github.com/larajscuri/digitalwritingrep/assets/162088161/8c6e0ff1-e6e0-4ec5-b90e-7a7496786018)
 ![Screenshot 2024-05-31 124712](https://github.com/larajscuri/digitalwritingrep/assets/162088161/20274ee4-62a3-4f59-b48a-b2abfd1975dd)
 ![Screenshot 2024-05-31 124725](https://github.com/larajscuri/digitalwritingrep/assets/162088161/01d3d298-5357-4643-900e-dcb02002c048)
 ![Screenshot 2024-05-31 124739](https://github.com/larajscuri/digitalwritingrep/assets/162088161/7d444733-89a6-4de7-89d1-80b862565458)
