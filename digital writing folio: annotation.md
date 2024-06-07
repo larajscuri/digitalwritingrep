@@ -11,17 +11,17 @@
 - Gameplay is a form of making meaning
 - Digital media: if gameplay is not producing meaning, is it useful?
 # Engagement with Works of Electronic Literature
-## Shade – IF game 
+## <a href="https://www.eblong.com/zarf/zweb/shade/">Shade</a>
 - This game was quite frustrating to play—I did have to play it a couple of times before I understood the mechanics and got the full story. It is interesting to read a story in this way where you feel so involved with it. The second person perspective really places you in the position of the character and you begin to really feel as if you are this character, trying to discover what happened to you.
-## Depression Quest 
+## <a href="http://www.depressionquest.com/">Depression Quest</a>
 - Much like Shade, the closeness created through this IF game was interesting and something I would like to emulate through my piece. I think I’ve always viewed books/literature as an embodied experience where you can see the world through different eyes, but there is a powerfulness in the way IF and digital literature achieve this. 
 - I think it is more than the second person pronoun, although it contributes to it. The interactions and choices you are given give the user a sense of autonomy over the character, providing this immersion that we don’t really gain when reading print literature. 
 - I really felt like the protagonist and began to understand their struggles as I continued to play as them. It was a great navigation of mental health, what it really is like to live with depression, and how it affects everything.
-## Under a Star Called Sun
+## <a href="https://haraiva.itch.io/under-a-star-called-sun">Under a Star Called Sun</a>
 - I thoroughly enjoyed playing this interactive fiction game. I thought all the elements, visual, audible and interactive, all came together and cultivated this intense feeling of loss for the user.
 - This is the type of digital literature I gravitate to; I feel as though it is a nice mix of interactive gameplay and narrative as well as having the audio and visual components that tie the story in together.
 
-## What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+## What elements of the works ("<a href="https://nickm.com/taroko_gorge/">Taroko Gorge</a>", "<a href="https://luckysoap.com/thegatheringcloud/">The Gathering Cloud</a>", "<a href="https://lizadaly.com/first-draft/content/index.html">First Draft of the Revolution</a>", and "Shade") do you read?  
 - Taroko Gorge: randomly generated, making patterned generated sentences that appear differently. All describing a specific place.
 - The Gathering Cloud: a mixture of pictures, motion, words and poetry. You click through the pages and get drop-down boxes that explain things further.
 -	First Draft of the Revolution: Hypertext fiction, uses hyperlinks to expand and follow the story
@@ -44,11 +44,11 @@
 - First draft of the revolution: hyperlink, choices, interactive
 - Shade: interactive fiction, second person
 # Engagement with the Readings
-## Enlightening Interactive Fiction: Andrew Plotkin’s Shade – Jeremy Douglass
+## Enlightening Interactive Fiction: Andrew Plotkin’s Shade – Jeremy Douglass <a href="https://www.example.com">anchor</a>
 - This enlightened me on the way in which you can use interaction as a vessel for storytelling. Having the error messages communicate and allude to the user being dead and this being a sort of purgatory revealed this to me, it was a clever way to use the forms conventions in the narrative.
 - It makes it uniquely digital, as you could not do this if it was print. 
-## Beyond Taxonomy: Digital Poetics and the Problem of Reading – Talan Memmott
+## Beyond Taxonomy: Digital Poetics and the Problem of Reading – Talan Memmott <a href="https://www.example.com">anchor</a>
 - This reading succinctly describes the different elements involved with digital writing that work to elevate the piece.
 - The idea that they are all purposeful decisions, made to curate and add to the narrative. 
-## Poetic Playlands: Poetry, Interface, and Video Game Engines – Jason Nelson
+## Poetic Playlands: Poetry, Interface, and Video Game Engines – Jason Nelson <a href="https://www.example.com">anchor</a>
 
