@@ -9,7 +9,10 @@
 # Reflection on Experiments for Assignment. 
 ## Original play around with Bitsy
 -	I wanted to get the hang of the mechanics of bitsy. I implemented a little bit of animation, items and dialogue. I was unsure how to make it so the avatar could not move up walls. I was also unsure how to make it, so the sprite does not block out the square that it is on. 
--	My first time experimenting with pixsy did not turn out how I would like it. It feels very messy and editing it tile by tile feels tedious. As I only have a couple of weeks to complete this work, I am looking for alternative methods to create these more efficient rooms.
+-	My first time experimenting with <a href="https://ruin.itch.io/pixsy">Pixsy</a> did not turn out how I would like it. It feels very messy and editing it tile by tile feels tedious. As I only have a couple of weeks to complete this work, I am looking for alternative methods to create these more efficient rooms.
+
+![Screenshot 2024-05-31 133716](https://github.com/larajscuri/digitalwritingrep/assets/162088161/c4c35a43-0c05-4913-a14a-25743bb4d104)
+
 ## Second play around with Bitsy
 -	I was able to find out through YouTube and Bitsy forums that Photoshop is an effective and efficient way to make rooms. 
 -	Bitsy only allows you to edit square by square, making it difficult and tedious to draw rooms as many objects such as beds, or doors, require multiple squares. I was able to create the same grids in Photoshop and the application allowed me to draw without the limitation of editing square by square. 
@@ -33,6 +36,6 @@
 ## Music
 -	I realised halfway through creating my piece that the music in many of the bitsy games I was playing and interacting with was not the music implemented in the game. 
 -	As a result, I almost left music out of my piece entirely as I felt it did not add anything to the story or narrative. 
--	After discovering Bitsy Muse ui, I created some small, looping tracks to go into each room with Mosi and will try to add them to the game.
--	I could not get it to work with multiple mp3 files as well it seems like Bitsy Muse does not work with some versions of Bitsy. So, I used another website and Beepbox to create a longer track.
+-	After discovering <a href="https://kool.tools/bitsy/tools/bitsymuse-ui/">Bitsy Muse UI</a> Bitsy Muse ui, I created some small, looping tracks to go into each room with an engine called <a href="https://zenzoa.itch.io/mosi">Mosi</a> and will try to add them to the game.
+-	I could not get it to work with multiple mp3 files as well it seems like Bitsy Muse does not work with some versions of Bitsy. So, I used another <a href="https://kool.tools/bitsy/tools/add-bitsy-audio/">website</a> and <a href="https://www.beepbox.co/#9n31s0k0l00e03t2ma7g0fj07r1i0o432T1v1u93f10l7q8121d35A8F4B0Qd007P5aa3E1639T1v1u64f0qwx10u211d08A1F2B5Q20a0Pe64bE3b662776T1v1u95f0q0z10u231d19AcFhBcQ0358P8888E1bfT2v1u15f10w4qw02d03w0E0b4h400000000h4g000000014h000000004h400000000p1bFE-NVS00000">Beepbox</a> to create a longer track.
 -	I am a little disappointed as I wanted to music to change in the TV room and the ending but I am still satisfied with what I have.
