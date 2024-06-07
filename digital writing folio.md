@@ -1,11 +1,13 @@
 # Coversheet for Developed Creative Work 
 
-# Objectives 
+# [Artists CV] (./artist CV.md)
 
-# Evidence 
+# [Objectives] (./digital writing folio: objectives.md)
 
-# Annotations
+# [Evidence] (./digital writing folio: evidence.md)
 
-# Refledction
+# [Annotations] (./digital writing folio: annotation.md)
 
-# Presentation
+# [Reflection] (./digital writing folio: reflections.md)
+
+# [Presentation] (./
