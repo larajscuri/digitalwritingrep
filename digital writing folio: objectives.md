@@ -13,7 +13,7 @@
 -	I think I was able to build a sense of tension through the slow revealing story.
 -	Through the uses of exits and endings I was able to change the rooms slightly, creating this paranormal feeling to the piece. 
 -	I believe the moral and theme, whilst tweaked, was still communicated. The mythologisation of these people’s lives added a level of mysticism to a real-life story, almost removing the human aspect. This made the people in the town feel comfortable with theorising and creating stories about what happened. But this does nothing in bringing justice to the victims of femicide, it only diminishes the real horrors of the crime. 
-# Inspirations for my piece
+# Inspirations for my Piece
 ## <a href="https://www.youtube.com/watch?v=-1pVLJl_snc">Opal: Short Film</a> 
 - The structure of exploring each room of an “abandoned” or scary house.
 - How each family member reveals more about how dysfunctional the house is. 
