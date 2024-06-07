@@ -7,6 +7,7 @@ Young adult (17–25-year-olds), mystery/thriller.
 
 # <a href="https://larajscuri.github.io/house-on-the-hill/">House on The Hill (Finished)
 
+## <a href="https://larajscuri.github.io/bitsy-experiment/">First Experiment with Bitsy</a>
 ## <a href="https://larajscuri.github.io/experiments/">First Prototype</a> 
 ## <a href="https://larajscuri.github.io/second-prototype/">Second Prototype</a>
 ## <a href="https://larajscuri.github.io/dialogue-choices/">Experiment of Dialogue Choices (failed)</a>  
