@@ -5,7 +5,7 @@ An interactive fiction game about haunted houses and family ties. You play as Ka
 ## Intended audience 
 Young adult (17–25-year-olds), mystery/thriller.
 
-# <a href="https://larajscuri.github.io/house-on-the-hill/">House on The Hill (Finished)</a
+# <a href="https://larajscuri.github.io/house-on-the-hill/">House on The Hill (Finished)
 
 ## <a href="https://larajscuri.github.io/experiments/">First prototype</a> 
 ## <a href="https://larajscuri.github.io/second-prototype/">Second Prototype</a>
@@ -14,4 +14,4 @@ Young adult (17–25-year-olds), mystery/thriller.
 ## <a href="https://larajscuri.github.io/experiment-success-3/">Experiment of “manipulating reality pt. 2”</a> 
 ## <a href="https://larajscuri.github.io/third-prototype/">Third prototype</a> 
 ## <a href="https://larajscuri.github.io/music-prototype/">Experiment with music (failed)</a> 
-## <a href="https://github.com/larajscuri/digitalwritingrep/blob/main/digital%20writing%20folio.md">Folio</a> 
+## <a href="https://github.com/larajscuri/digitalwritingrep/blob/main/digital%20writing%20folio.md">Digital Writing Folio</a> 
