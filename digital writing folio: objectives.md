@@ -30,4 +30,4 @@
 - Dante believed there were nine circles of hell, representing a gradual descent into increasing levels of sin and punishment with the ninth one being the worst perceived sin, treachery. It is described as the “lowest, blackest, and farthest from Heaven” and is described as a frozen landscape. There are rings within the circle describing different forms of treachery with Canial being a betrayal of blood, Antenora being a betrayal of God and Ptolemy being a betrayal of guests.
 - I plan to have allusions to Ptolemy, the betrayal of the guest. Whilst the father did betray his blood, he mainly betrayed his wife, a woman he invited into his life, and built a home and a family with by choice. I chose this one as opposed to Canial as Ptolemy is perceived, by Dante as worse than a betrayal of a blood relationship as you have no control over your blood.  
 ## <a href="https://open.spotify.com/track/29LsI5izZL8txZEJhegSBs?si=9f68bfe579b949d6">Ptolemaea: Song</a>
-o	A song that further explores the idea of the ninth ring of hell, Ptolemaea. 
+- A song that further explores the idea of the ninth ring of hell, Ptolemaea. 
