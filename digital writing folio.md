@@ -1,15 +1,7 @@
-# Coversheet for Developed Creative Work 
-
-# <a href="https://github.com/larajscuri/digitalwritingrep/blob/main/artist-CV.md">Artist CV</a>
-
-[Artists CV] (./artist-CV.md)
-
-# [Objectives] (./digital writing folio: objectives.md)
-
-# [Evidence] (./digital writing folio: evidence.md)
-
-# [Annotations] (./digital writing folio: annotation.md)
-
-# [Reflection] (./digital writing folio: reflections.md)
-
-# [Presentation] (./
+# Digital Writing Folio
+## Coversheet for Developed Creative Work 
+## <a href="https://github.com/larajscuri/digitalwritingrep/blob/main/artist-CV.md">Artist CV</a>
+## <a href="">Evidence</a>
+## <a href="https://github.com/larajscuri/digitalwritingrep/blob/main/digital%20writing%20folio%3A%20annotation.md">Annotations</a>
+## <a href="https://github.com/larajscuri/digitalwritingrep/blob/main/digital%20writing%20folio%3A%20reflections.md">Reflection</a>
+## <a href="">Presentation</a>
